@@ -36,7 +36,9 @@ Install **validation strategy** via npm:
 Make sure you install the peer dependency [Joi](https://github.com/hapijs/joi) if using the _joi-validation-strategy_:
 
 ```javascript
-> npm install --save joi
+> npm install --save joi 
+or install joi-browser for es6 compatibility
+> npm install --save joi-browser 
 ```
 
 ### Strategies
